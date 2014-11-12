@@ -1,1 +1,3 @@
 Coming soon ... 
+
+![Screenshot of the pickers](img/screenshot.png)
